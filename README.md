@@ -26,11 +26,6 @@ This repository contains a Jupyter notebook implementation of StyleGAN, a state-
    cd styleGAN_code
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 3. Launch the notebook:
    ```bash
    jupyter notebook styleGAN_code.ipynb
@@ -41,10 +36,6 @@ This repository contains a Jupyter notebook implementation of StyleGAN, a state-
 - Open `styleGAN_code.ipynb` in Jupyter Notebook.
 - Follow the cells to set up your dataset, configure training parameters, and start training or generating images.
 
-## References
-
-- [StyleGAN Paper](https://arxiv.org/abs/1812.04948)
-- [Original StyleGAN GitHub](https://github.com/NVlabs/stylegan)
 
 ## License
 
